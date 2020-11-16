@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Java-Selenium-BDD
+Bundle-SymbolicName: Java-Selenium-BDD
+Bundle-Version: 1.0.0.qualifier
+Export-Package: br.com.seleniumtesting,
+ br.com.seleniumtesting.browser,
+ br.com.seleniumtesting.helper,
+ br.com.seleniumtesting.modelpage.google,
+ br.com.seleniumtesting.pageobject,
+ driver
